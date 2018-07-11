@@ -83,6 +83,12 @@ public class LoginActivity extends AppCompatActivity {
                         }
                     });
 
+                }else
+                {
+                    loginEmailText.setError("Email needed");
+                    loginPassText.setError("Password needed");
+
+
                 }
 
 
