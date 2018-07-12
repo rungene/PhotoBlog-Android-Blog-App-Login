@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "Removed",
-    "firebase_url": "Removed",
-    "project_id": "Removed",
-    "storage_bucket": "Removed"
+    "project_number": "956366182954",
+    "firebase_url": "https://photoblog-android-blog-a-30513.firebaseio.com",
+    "project_id": "photoblog-android-blog-a-30513",
+    "storage_bucket": "photoblog-android-blog-a-30513.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:356235383112:android:f2197643bf0111e7",
+        "mobilesdk_app_id": "1:956366182954:android:f2197643bf0111e7",
         "android_client_info": {
           "package_name": "in.tvac.akshayejh.photoblog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "356235383112-0i6lnn326ekaqrf936hpt3e89eh185kn.apps.googleusercontent.com",
+          "client_id": "956366182954-la36mdt26l6qtt9g90fsrc9gelvuhv32.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "in.tvac.akshayejh.photoblog",
-            "certificate_hash": "ff3640f92c85c1f78eb33f751c93f2c03aa20d98"
+            "certificate_hash": "ef242023a065e941ec8437248ea2081b41843119"
           }
         },
         {
-          "client_id": "356235383112-ch06cj0kou6qj21i3meinfjn8pvb8asi.apps.googleusercontent.com",
+          "client_id": "956366182954-gsk1p094fmk3h881d7moo387gtg56o15.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDOMBCVAorhB3vbHkglG6VDmrHSWqEQlP4"
+          "current_key": "AIzaSyAMYJutj5MktPKWfI55K66f5wkGj-qagMA"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "356235383112-ch06cj0kou6qj21i3meinfjn8pvb8asi.apps.googleusercontent.com",
+              "client_id": "956366182954-gsk1p094fmk3h881d7moo387gtg56o15.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
